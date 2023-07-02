@@ -26,7 +26,7 @@ from yt import *
 
 # -
 
-ibnsHaRaWi.start()
+sedthon.start()
 
 y = datetime.datetime.now().year
 m = datetime.datetime.now().month
